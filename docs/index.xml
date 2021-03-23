@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>光合日记</title>
+    <link>https://dongyuhui.github.io/</link>
+    <description>Recent content on 光合日记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 10 Oct 2020 10:00:00 +0800</lastBuildDate><atom:link href="https://dongyuhui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>甜品级黑苹果组装记录</title>
+      <link>https://dongyuhui.github.io/post/balanced-hackintosh-guide/</link>
+      <pubDate>Sat, 10 Oct 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://dongyuhui.github.io/post/balanced-hackintosh-guide/</guid>
+      <description>由于日益增长的硬件性能需求，正在使用的 MacBookPro14,1 性能早已捉襟见肘，于是就有了组装一台甜品级黑苹果的念头。因为是从新选配安装，前期也阅读了很多资料，所以总体来说十分的顺利。
+组件选配 首先确认自己的需求：
+ 机箱要足够小，尽量节省空间占用 性能不用太强，不用考虑超频，追求性价比 组件要尽可能主流，满足兼容性同时方便升级 系统要功能全面，防止出现某些模块无法使用  于是经过抉择最终选定了下面的基本架构：
+ AsRock B365M ITX  华擎价格实惠，300 系成功案例多，该板能方便替换免驱网卡   Intel i5 8600  需要核显实现硬件解码，而且八九代差别不大，均衡选择   Radeon RX580 4G  系统直接免驱，性能中等，矿卡价格便宜   Dell U2720Q  黑苹果优先 4K 屏，大小 27 寸正好，色域满足基本摄影需求    其他硬件讲究不多，最终组件罗列如下：
+   组件 名称 备注     主板 华擎 B365M ITX    CPU Intel i5 8600 散片   显卡 蓝宝石 RX580 4G 淘宝矿卡   内存 威刚 万紫千红 16G    固态 西数 SN550 512G    电源 全汉 SFX MS450 450W 足以   机箱 小喆 B2 ITX 机箱，外观尚可   网卡 BCM94360CS2 免驱   显示器 戴尔 U2720Q 4K，提供 Type-C 接口    加上一些其他的配件如风扇、鼠标、显示器支架等，最终花费 8500 左右。</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://dongyuhui.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dongyuhui.github.io/about/</guid>
+      <description>请从以下寻找我：
+ Weibo Instagram GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

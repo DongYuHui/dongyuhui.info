@@ -1,0 +1,12 @@
+baseURL: "https://dongyuhui.info"
+languageCode: "zh-Hans"
+title: "光合日记"
+pygmentsstyle: 'monokai'
+theme: "hugo-theme-novela"
+paginate: 10
+social:
+  github: "https://github.com/DongYuHui"
+  instagram: "https://instagram.com/dongxiaohui827"
+  weibo: "https://weibo.com/mandaoxiaohui"
+taxonomies:
+  author: YuHui
