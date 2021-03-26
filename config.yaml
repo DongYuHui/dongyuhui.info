@@ -4,9 +4,19 @@ title: "光合日记"
 pygmentsstyle: 'monokai'
 theme: "hugo-theme-novela"
 paginate: 10
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn
+DefaultContentLanguage: zh-cn
+
 social:
   github: "https://github.com/DongYuHui"
   instagram: "https://instagram.com/dongxiaohui827"
   weibo: "https://weibo.com/mandaoxiaohui"
+
+permalinks:
+    post: /post/:slug/
+    page: /:slug/
+
 taxonomies:
   author: YuHui
