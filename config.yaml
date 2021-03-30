@@ -19,4 +19,9 @@ permalinks:
     page: /:slug/
 
 taxonomies:
-  author: YuHui
+  author: authors
+
+params:
+  footerTitle: "DongYuHui"
+  footerRecord: "浙ICP备20005422号-1"
+  showAbout: true
