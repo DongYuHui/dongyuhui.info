@@ -1,5 +1,5 @@
 baseURL: "https://dongyuhui.info"
-languageCode: "zh-CN"
+locale: "zh-CN"
 title: "光合日记"
 pygmentsstyle: 'monokai'
 theme: "hugo-theme-novela"
@@ -7,7 +7,7 @@ theme: "hugo-theme-novela"
 # Pagination settings
 pagination:
   # Number of posts per page
-  pagerSize: 10
+  pagerSize: 1
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
@@ -17,8 +17,8 @@ permalinks:
     post: /post/:slug/
     page: /:slug/
 
-taxonomies:
-  author: authors
+# taxonomies:
+#   author: authors
 
 params:
   footerTitle: "DongYuHui"
