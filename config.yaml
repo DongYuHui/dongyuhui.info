@@ -7,7 +7,7 @@ theme: "hugo-theme-novela"
 # Pagination settings
 pagination:
   # Number of posts per page
-  pagerSize: 1
+  pagerSize: 10
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
@@ -17,13 +17,14 @@ permalinks:
     post: /post/:slug/
     page: /:slug/
 
-# taxonomies:
-#   author: authors
+taxonomies:
+  author: authors
 
 params:
   footerTitle: "DongYuHui"
   footerRecord: "浙ICP备20005422号-1"
   showAbout: true
+  showAuthors: false
   # social media
   social:
     - name: "GitHub"
